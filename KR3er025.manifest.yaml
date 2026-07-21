@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er025_000.yaml, hash: 'sha256:d3124f6c5fbdf57a90531114f7df4086658f27a15fd9d61afc0a7799229bf41d'}
+  - {seq: 0, filename: KR3er025_000.yaml, hash: 'sha256:651643a5803fb6bb98308ebfdb40d411ff1300a977781cc24d5c75d5e6a240c9'}
   - {seq: 1, filename: KR3er025_001.yaml, hash: 'sha256:4a9709a92c9528eca274f3ad04ceb83915323e44b1047d7863b774635b057c60'}
   - {seq: 2, filename: KR3er025_002.yaml, hash: 'sha256:a425fd6bb4bd97633a67906c2ab28b9162cb8248ba70fee58749783f57e7b545'}
   - {seq: 3, filename: KR3er025_003.yaml, hash: 'sha256:62a02b308bd26c7426f023f3df4b4e7ee29cde3b6acec4eae4d59764fe73e214'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 9, filename: KR3er025_009.yaml, hash: 'sha256:a319c20d67418c4a573a2be622e417cf9acb095e5ab5a5c048bb9ab59e94f92d'}
   - {seq: 10, filename: KR3er025_010.yaml, hash: 'sha256:d2aa3605e9d0ae5cbc000adcf68d6a56d16800692e1e3f254d78a1b645325205'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er025_000.markers.yaml, hash: 'sha256:2d14e06c05f53f38ea4ad05ce94294cc6ba41336092f44bbde110186246e4b58'}
+  - {seq: 0, role: markers, filename: assets/KR3er025_000.markers.yaml, hash: 'sha256:6043c66aa139dbced9499536cbf2293165d0451e439a2773123f2467062290fa'}
   - {seq: 1, role: markers, filename: assets/KR3er025_001.markers.yaml, hash: 'sha256:33e46181d6690fa8b394443d1d2596ef42cfd2ebfccc0435909098e2ec43b092'}
   - {seq: 2, role: markers, filename: assets/KR3er025_002.markers.yaml, hash: 'sha256:a712c418806427170ac78632f13f684e82bc77569cdf305c45e83972b857b876'}
   - {seq: 3, role: markers, filename: assets/KR3er025_003.markers.yaml, hash: 'sha256:a37c72b049805e9a70968f974b8102a719b3f1edcf8c1bf7c66cefd02c317e84'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er025_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 430
   label: 序
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er025_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 430
     - 681
   label: 序
@@ -3661,7 +3661,7 @@ table_of_contents:
   label: 醫家十要
   type: section
   level: 3
-hash: sha256:e351461d6319526276ac9530d85f4b649a99879f47ebfbc11dfe3eda3cb40633
+hash: sha256:d2d1d46dfc74d82db503d11058a8c9661351ecba978fd9cb14e9a10a7ec1e74e
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

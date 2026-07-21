@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3er025_000-jc.yaml, hash: 'sha256:7e7a0f76792c80858ffda93144dd3f6d3687a7e5655aba4daf5bbd8f8fc48492'}
+  - {seq: 0, filename: KR3er025_000-jc.yaml, hash: 'sha256:3086a72bf47a8aa7b3bd77f2bda28513de2963bfa2faaeab99ea2dbe84594093'}
   - {seq: 1, filename: KR3er025_001-jc.yaml, hash: 'sha256:63bf4f3105658155fcde87bb3db68bc68080a1faa0493e0df353280f629d924b'}
   - {seq: 2, filename: KR3er025_002-jc.yaml, hash: 'sha256:551a738c3169d64afbd59cee45600cf3cef464eab975d88df0f748c90006ff6d'}
   - {seq: 3, filename: KR3er025_003-jc.yaml, hash: 'sha256:8d4b98d2310f9d29073fd07f37f489ef44bfa7c18da552983be8cb410bd41f16'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 9, filename: KR3er025_009-jc.yaml, hash: 'sha256:f71edb0923e6d352a2874e9445f28bf996d1a89a76bb583c74cb5afeb61737ac'}
   - {seq: 10, filename: KR3er025_010-jc.yaml, hash: 'sha256:707caa38b8db980f3203a067785fff44a0631fb692f8f14762a980da92ad6db1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er025_000-jc.markers.yaml, hash: 'sha256:cac365c47a959f4186ab0ab13076531c7b054b9683e64892ebff4190ffa563a3'}
+  - {seq: 0, role: markers, filename: assets/KR3er025_000-jc.markers.yaml, hash: 'sha256:442c8cd06aff742a804ded26138f0f55cac88b173b0c9a31957947c461487538'}
   - {seq: 1, role: markers, filename: assets/KR3er025_001-jc.markers.yaml, hash: 'sha256:e585134f4098cd880ad7d57ca4eed7c692c6ea6a1bd30a1d4f147515aeb2f18c'}
   - {seq: 2, role: markers, filename: assets/KR3er025_002-jc.markers.yaml, hash: 'sha256:a87cd400d63680872f555c15fbdacf474b4b66b4c686013920b8adb9c03a80d2'}
   - {seq: 3, role: markers, filename: assets/KR3er025_003-jc.markers.yaml, hash: 'sha256:a0c4d00ce208182d805d22ad866693a5a7f2b8d9344abb7d187fabafdcdcc7ea'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er025_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 430
   label: 序
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er025_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 430
     - 681
   label: 序
@@ -3661,4 +3661,4 @@ table_of_contents:
   label: 醫家十要
   type: section
   level: 3
-hash: sha256:e21c575eb180484b809ee78e5d535c44af65d2375c9677b3b7c909abfd49fb28
+hash: sha256:669042497a7fa1d54a247da991ed89c8bc43fd548b2b689fd67c9a2e48964792
